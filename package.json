@@ -1,0 +1,25 @@
+{
+  "name": "@zcool/stylelint-config",
+  "version": "1.0.0-alpha.0",
+  "description": "eslint config for zcool",
+  "prettier": "@zcool/prettier-config",
+  "main": "index.js",
+  "repository": "git@git.hellorf.work:fe/stylelint-config-zcool.git",
+  "keywords": [
+    "stylelint",
+    "zcool"
+  ],
+  "author": "zhanghao <zhlookin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-sass-guidelines": "^7.0.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0"
+  },
+  "devDependencies": {
+    "@zcool/prettier-config": "^1.0.0-rc.2",
+    "prettier": "^2.0.5"
+  }
+}
