@@ -1,6 +1,6 @@
 {
   "name": "@zcool/stylelint-config",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "stylelint config for zcool",
   "prettier": "@zcool/prettier-config",
   "main": "index.js",

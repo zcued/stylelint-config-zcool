@@ -1,7 +1,5 @@
 module.exports = {
-  extends: ['stylelint-config-standard', 'stylelint-config-sass-guidelines'],
+  extends: ['./base', 'stylelint-config-sass-guidelines'],
   ignoreFiles: ['**/*.js', '**/*.jsx'],
-  rules: {
-    'no-descending-specificity': null,
-  },
+  rules: {},
 }

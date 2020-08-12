@@ -1,8 +1,6 @@
 // less/css
 module.exports = {
-  extends: ['stylelint-config-standard'],
+  extends: ['./base'],
   ignoreFiles: ['**/*.js', '**/*.jsx'],
-  rules: {
-    'no-descending-specificity': null,
-  },
+  rules: {},
 }
