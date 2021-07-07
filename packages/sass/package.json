@@ -1,0 +1,14 @@
+{
+  "name": "@zcool/style-config-sass",
+  "description": "style config for sass",
+  "prettier": "@zcool/prettier-config",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@zcool/style-config": "0.0.0",
+    "stylelint-config-sass-guidelines": "^7.0.0"
+  }
+}
