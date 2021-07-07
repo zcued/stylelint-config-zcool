@@ -4,8 +4,8 @@ ZCOOL FE stylelint Configuration. See all stylelint config options [here](https:
 ## Usage
 **Install**:
 ```bash
-$ yarn add -D @zcool/stylelint-config stylelint
-$ yarn add -D @zcool/stylelint-config-sass stylelint
+$ yarn add -D @zcool/style-lint-config stylelint
+$ yarn add -D @zcool/style-lint-config-sass stylelint
 $ yarn add -D @zcool/style-lint-config-styled-component stylelint
 ```
 
