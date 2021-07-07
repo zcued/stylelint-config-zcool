@@ -4,12 +4,12 @@
   "prettier": "@zcool/prettier-config",
   "main": "index.js",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@zcool/style-config": "^1.0.0",
+    "@zcool/style-config": "^1.0.1",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.10.0"
   }
