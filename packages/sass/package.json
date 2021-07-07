@@ -1,5 +1,5 @@
 {
-  "name": "@zcool/style-config-sass",
+  "name": "@zcool/style-lint-config-sass",
   "description": "style config for sass",
   "prettier": "@zcool/prettier-config",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@zcool/style-config": "^1.0.1",
+    "@zcool/style-lint-config": "^1.0.1",
     "stylelint-config-sass-guidelines": "^7.0.0"
   }
 }

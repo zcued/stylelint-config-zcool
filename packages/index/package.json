@@ -1,5 +1,5 @@
 {
-  "name": "@zcool/style-config",
+  "name": "@zcool/style-lint-config",
   "description": "default style config",
   "prettier": "@zcool/prettier-config",
   "main": "index.js",
