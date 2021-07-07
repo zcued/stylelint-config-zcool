@@ -4,7 +4,9 @@ ZCOOL FE stylelint Configuration. See all stylelint config options [here](https:
 ## Usage
 **Install**:
 ```bash
-$ yarn add -D @zcool/stylelint-config stylelint
+$ yarn add -D @zcool/style-lint-config stylelint
+$ yarn add -D @zcool/style-lint-config-sass stylelint
+$ yarn add -D @zcool/style-lint-config-styled-component stylelint
 ```
 
 **Add `.stylelintrc.js`**
@@ -18,6 +20,9 @@ module.exports = {
 ```
 
 **Remove old `.prettierrc` file**
+
+# 使用lerna的多包管理方案
+ [lerna官网](https://lerna.js.org/)
 
 ## Contribute
 1. fork

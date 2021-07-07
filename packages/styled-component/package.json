@@ -1,0 +1,16 @@
+{
+  "name": "@zcool/style-lint-config-styled-component",
+  "description": "style config for styled-component",
+  "prettier": "@zcool/prettier-config",
+  "main": "index.js",
+  "license": "MIT",
+  "version": "1.1.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@zcool/style-lint-config": "^1.1.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.10.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@zcool/style-lint-config",
+  "description": "default style config",
+  "prettier": "@zcool/prettier-config",
+  "main": "index.js",
+  "license": "MIT",
+  "version": "1.1.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {
+    "@zcool/prettier-config": "^1.0.0-rc.2",
+    "prettier": "^2.0.5"
+  }
+}
