@@ -4,6 +4,5 @@ module.exports = {
     'no-descending-specificity': null,
     'font-family-no-missing-generic-family-keyword': null,
   },
-  extends: ['./base'],
   ignoreFiles: ['**/*.js', '**/*.jsx'],
 }
